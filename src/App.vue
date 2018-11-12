@@ -9,6 +9,7 @@
 import Vue from 'vue';
 import BootstrapVue from 'bootstrap-vue';
 import navBar from './components/navBar.vue';
+
 import footer from './components/footer.vue';
 
 Vue.use(BootstrapVue);
